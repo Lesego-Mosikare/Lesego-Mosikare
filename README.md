@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Lesego Mosikare
 
-<!--
-**Lesego-Mosikare/Lesego-Mosikare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Software Developer**, **Web Developer**, **IT Support Technician**, and **Junior QA Tester** with hands-on experience in Python, Web Technologies, Databases, and Software Engineering basics.
 
-Here are some ideas to get you started:
+🎓 Graduate of the **Power Learn Project (PLP)** – Web Development Specialization  
+📍 Johannesburg, South Africa   
+📧 lsgmosikare2283@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills
+- Python  
+- HTML, CSS, JavaScript  
+- SQL (Basics)  
+- Git & GitHub  
+- IT Support: Troubleshooting, Software Setup, Windows Support
+
+---
+
+## 🚀 Projects
+
+### 📁 1. Portfolio Website
+A responsive personal portfolio built using **HTML, CSS, and JavaScript**.  
+- Clean, modern design  
+- Mobile-friendly  
+- Contains contact form & sections for projects  
+🔗 *Link coming soon…*
+
+---
+
+## 📈 Goals
+- Grow into a Junior Developer or IT Support role 
+- Build more real-world projects  
+- Learn backend frameworks and APIs
+
+---
+
+## 🤝 Let's Connect
+Feel free to reach out about collaborations, junior roles, or open-source projects.
+
